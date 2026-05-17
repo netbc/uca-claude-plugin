@@ -1,10 +1,11 @@
 {
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
   "name": "uca-plugins",
   "version": "1.0.0",
   "description": "Unit Cell Architect plugins for Claude Code — stoichiometric cell design tools for synthetic biology",
   "owner": {
     "name": "UCA Team",
-    "email": "uca@example.com"
+    "email": "info@netbits.cloud"
   },
   "plugins": [
     {
@@ -13,7 +14,7 @@
       "version": "1.0.0",
       "author": {
         "name": "UCA Team",
-        "email": "uca@example.com"
+        "email": "info@netbits.cloud"
       },
       "source": "./plugins/unit-cell-architect",
       "category": "development"

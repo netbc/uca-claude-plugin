@@ -4,6 +4,8 @@
   "description": "Unit Cell Architect — stoichiometric cell design tools for synthetic biology.",
   "author": {
     "name": "UCA Team",
-    "email": "uca@example.com"
-  }
+    "email": "info@netbits.cloud"
+  },
+  "skills": "./skills",
+  "agents": "./agents"
 }
