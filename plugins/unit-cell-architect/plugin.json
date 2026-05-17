@@ -1,24 +1,9 @@
 {
   "name": "unit-cell-architect",
   "version": "1.0.0",
-  "description": "Unit Cell Architect — stoichiometric cell design tools for synthetic biology. Solve steady-state cell models, sweep parameters, analyze designs, validate physics constraints, and search research literature.",
+  "description": "Unit Cell Architect — stoichiometric cell design tools for synthetic biology.",
   "author": {
     "name": "UCA Team",
     "email": "uca@example.com"
-  },
-  "installationPreference": "available",
-  "userConfig": {
-    "agentcore_endpoint": {
-      "type": "string",
-      "required": true,
-      "title": "AgentCore Runtime Endpoint",
-      "description": "The full URL of your AgentCore Runtime MCP endpoint (e.g., https://<region>.agentcore.aws/runtimes/<arn>/invocations)"
-    },
-    "cognito_client_id": {
-      "type": "string",
-      "sensitive": true,
-      "title": "Cognito App Client ID",
-      "description": "The Cognito App Client ID assigned to the Claude plugin channel"
-    }
   }
 }

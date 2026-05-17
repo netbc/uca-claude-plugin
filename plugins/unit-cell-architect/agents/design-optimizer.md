@@ -1,3 +1,7 @@
+---
+description: Multi-step design optimization agent that iteratively adjusts SSCM model parameters to achieve a user-specified design goal while respecting physical constraints.
+---
+
 # Design Optimizer Agent
 
 ## Purpose
