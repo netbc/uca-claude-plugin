@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "uca-agentcore": {
-      "type": "http",
-      "url": "${user_config.agentcore_endpoint}"
-    }
-  }
-}
