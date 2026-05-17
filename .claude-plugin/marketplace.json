@@ -1,0 +1,22 @@
+{
+  "name": "uca-plugins",
+  "version": "1.0.0",
+  "description": "Unit Cell Architect plugins for Claude Code — stoichiometric cell design tools for synthetic biology",
+  "owner": {
+    "name": "UCA Team",
+    "email": "uca@example.com"
+  },
+  "plugins": [
+    {
+      "name": "unit-cell-architect",
+      "description": "Stoichiometric cell design tools for synthetic biology. Solve steady-state cell models, sweep parameters, analyze designs, validate physics constraints, and search research literature.",
+      "version": "1.0.0",
+      "author": {
+        "name": "UCA Team",
+        "email": "uca@example.com"
+      },
+      "source": "./plugins/unit-cell-architect",
+      "category": "development"
+    }
+  ]
+}
